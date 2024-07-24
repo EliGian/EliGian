@@ -1,5 +1,6 @@
 # 💫 About Me:
-👋 Hi, I'm Elias!<br><br> I'm a Junior Software Engineer 🖥️, using <br>DevOps principles. I am currently developing in C# and I write scripts in Bash/PowerShell.<br><br> I'm also diving into the world of Python AI and Data Science🐍📊.<br><br> My future goal? To become an AI Engineer! 🤖<br>
+👋 Hi, I'm Elias!<br><br> Junior Software Developer 🖥️
+Currently learning Python to get into the DS/AI/ML Field🐍📊.<br><br> My future goal? To become an AI Engineer! 🤖<br>
 
 
 ## 🌐 Socials:
