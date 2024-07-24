@@ -1,6 +1,6 @@
 # 💫 About Me:
-👋 Hi, I'm Elias!<br><br> Junior Software Developer 🖥️
-Currently learning Python to get into the DS/AI/ML Field🐍📊.<br><br> My future goal? To become an AI Engineer! 🤖<br>
+👋 Hi, I'm Elias!<br><br> I am a Junior Software Developer 🖥️
+I am currently learning Python and R to get into the DS/AI/ML Field🐍📊.<br><br> My future goal? To become an AI Engineer! 🤖<br>
 
 
 ## 🌐 Socials:
